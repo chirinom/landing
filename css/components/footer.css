@@ -1,0 +1,19 @@
+.footer {
+    background-color: rgba(0, 0, 0, 0.795);
+    color: white;
+    padding: 60px;
+    text-align: center;
+}
+
+.footer a {
+    font-size: 30px;
+    color: #6AD58B;
+    padding: 10px;
+    margin-bottom: 0px;
+    text-align: center
+}
+
+.footer h4 {
+    margin-top: 0px;
+    font-weight: lighter;
+}
